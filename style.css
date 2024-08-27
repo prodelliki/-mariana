@@ -7,4 +7,10 @@ background-color: rgb(252, 6, 6)
     color: rgba(250, 215, 232, 0.007);
   }
 
-font style
+
+.CAP {
+font-style: italic;
+}
+.img{
+  width: 50%;
+}
