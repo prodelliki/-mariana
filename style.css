@@ -7,10 +7,22 @@ background-color: rgb(252, 6, 6)
     color: rgba(250, 215, 232, 0.007);
   }
 
-
 .CAP {
 font-style: italic;
 }
 .img{
   width: 50%;
+}
+header {
+  border-bottom: 0cqmin;
+  padding: 0cap;
+  font-size: medium;
+  color: black;
+}
+
+section {
+  background: fixed;
+  padding-bottom: 0cap;
+  padding-top: 0cqi;
+  display: flex;
 }
